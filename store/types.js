@@ -1,0 +1,3 @@
+export const TOGGLE_DRAWER = 'TOGGLE_DRAWER';
+export const VIEW_PEOPLE = 'VIEW_PEOPLE';
+export const VIEW_USER_PROFILE = 'VIEW_USER_PROFILE';
